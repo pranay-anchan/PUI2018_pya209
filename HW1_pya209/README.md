@@ -1,4 +1,4 @@
-# PYA209
+# Homework 1
 
 ![Alt text](1.png)
 I had made the folder PIU instead of PUI. Oops.
