@@ -1,10 +1,12 @@
 # Assignment 5 - pya209
 
 ## Assignment 1:
+
 Analyzed Linda's citibike homework last week, and submitted as a git pull request markdown file to her repo PUI2018/lj_1232. 
 File is called CitibikeReview_pya209.
 
 ## Assignment 2:
+
 Worked partly in group with Siddhanth Shetty(sds695) for this. 
 
 We shared results for the first two tests, I worked on ANOVA test and Siddhanth worked on Path Analysis. The third, Logistic Regression, I worked alone.
@@ -34,3 +36,16 @@ Logistic Regression	| 1,  Gender in different classes | Categorical | 1,  Propor
   |||||||||
   
   ![Alt text](Logisticregression.png)
+
+
+
+## Assignment 3:
+
+Followed the instructions in the skeleton notebook to reproduce the analysis of the Hard to Employ program in NY.
+
+
+## Assignment 4:
+
+Followed the instructions in the skeleton notebook to perform KS, Pearson and Spearman tests on Citibike data.
+
+
