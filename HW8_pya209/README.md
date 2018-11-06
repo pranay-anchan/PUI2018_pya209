@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-Plotted Apple shares for 10 years (2006 - 2016). I got the idea from our ADS class.
+Plotted Apple shares for 10 years (2006 - 2016). I got the idea from our ADS class. The code is available in 'Assignment 1.ipynb'
 
 ![Alt text](appleshare.png)
 
