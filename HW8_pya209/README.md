@@ -12,3 +12,5 @@ The above plot shows the dollars per share for Apple for a period of 10 years (2
 
 ## Assignment 2
 
+Worked with Siddhanth Shetty (sds695) on this task. 
+Link to our Authorea paper: https://www.authorea.com/users/249353/articles/335413-citibike-do-younger-people-tend-to-ride-longer
