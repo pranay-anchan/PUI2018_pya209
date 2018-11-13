@@ -27,5 +27,11 @@ dictkey = dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['V
 fout.write("Latitude,Longitude,Stop Name,Stop Distance\n")
 for i in dictkey:
 	if(i['MonitoredVehicleJourney']['PublishedLineName'] == bus_route):
-		fout.write(str(i['MonitoredVehicleJourney']['VehicleLocation']['Latitude']) + ', ' + str(i['MonitoredVehicleJourney']['VehicleLocation']['Longitude']) + ', ' + str(i['MonitoredVehicleJourney']['MonitoredCall']['StopPointName']) + ', ' + str(i['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']) + '\n')
+		lat = i['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+		long = i['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+		if lat == {}:
+			lat = "NA"
+		if long == {}:
+			long = "NA"
+		fout.write(str(lat) + ', ' + str(long) + ', ' + str(i['MonitoredVehicleJourney']['MonitoredCall']['StopPointName']) + ', ' + str(i['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']) + '\n')
 
