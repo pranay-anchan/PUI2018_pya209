@@ -2,6 +2,8 @@
 
 Sam has plotted a heatmap distribution of public tennis faciilities in NYC
 
+![Alt text](samplot.png)
+
 ### Clarity
 The objective of the plot is clear, in that what Sam is trying to convey with the plot.
 

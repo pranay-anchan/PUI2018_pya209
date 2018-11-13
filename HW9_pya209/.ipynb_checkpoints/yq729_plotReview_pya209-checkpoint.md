@@ -2,6 +2,8 @@
 
 Yusu's plot explores water consumption versus the death rate from flu and pneumonia in New York City from 2007 to 2014. 
 
+![Alt text](yusuplot.png)
+
 ### Clarity
 The plot compares 2 dependent variables on the Y axis, but Yusu has clearly mentioned what they are and thus it is clear in my opinion. The quanitites being visualized are clear as Yusu has mentioned the units of measurement.
 
