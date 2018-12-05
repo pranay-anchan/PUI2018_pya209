@@ -18,7 +18,15 @@ Improved on the below plot by adding the cyclic and trend components as suggeste
 The original plot showing the dollars per share for Apple for a period of 10 years (2006 - 2016). 
 
 
+![Alt text](cyclic.png)
 
 
+The cyclic component is shown in the above plot. Can see spikes from 2012. The 2008 drop is not as significant (but definitely seen). 
+
+
+![Alt text](trend.png)
+
+
+The trend component is shown in the above plot. It's pretty similar to the original plot.
 
 **Note:** I have used fix_yahoo_finance library.
